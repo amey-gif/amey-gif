@@ -4,7 +4,7 @@ Artificial Intelligence & Data Science Undergraduate
 
 I'm passionate about building AI-powered applications that solve real-world problems. I enjoy working across the full development lifecycle—from data preprocessing and machine learning model development to backend APIs and deployment.
 
-Core Expertise:
+## Core Expertise:
 
 Machine Learning: Python, Scikit-learn, XGBoost, Random Forest, TF-IDF, NLP, SMOTE, GridSearchCV, Predictive Modeling, Model Evaluation
 
